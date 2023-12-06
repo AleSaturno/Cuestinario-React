@@ -97,7 +97,6 @@ const Home = () =>{
                         <p>Por Favor complete todos los campos para acceder a la encuesta. </p>
                         <h4>Todos los Derechos reservados a <br />Alejandro Saturno.</h4>
                         <h3>Redes:
-
                          <a target="_blanck" href="https://www.linkedin.com/in/alejandro-saturno-1b5967206/">Linkedin</a> 
                          <a target="_blanck" href="https://github.com/AleSaturno">Github</a>
                         </h3>
